@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Validação Simples de Formulário
 
 Um projeto de validação de formulário simples e funcional com HTML, CSS e JavaScript.
